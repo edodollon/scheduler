@@ -21,3 +21,9 @@ npm test
 ```sh
 npm run storybook
 ```
+## Screenshots
+
+!["Base view"](https://github.com/edodollon/scheduler/blob/master/docs/base-screen.png?raw=true)
+!["Create view"](https://github.com/edodollon/scheduler/blob/master/docs/create-appointment.png?raw=true)
+!["Saved appointment"](https://github.com/edodollon/scheduler/blob/master/docs/saved-appointment.png?raw=true)
+!["Delete confirmation"](https://github.com/edodollon/scheduler/blob/master/docs/delete-option.png?raw=true)
